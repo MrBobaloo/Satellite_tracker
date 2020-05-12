@@ -4,8 +4,10 @@ Download & install nodejs
 
 In the project directory, you can run:
 
-### `npm install` - installs dependencies 
+Install dependencies
+### `npm install` 
 
-### `npm start` - start the app in development mode
+start the app in development mode
+### `npm start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
